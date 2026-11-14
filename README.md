@@ -6,10 +6,9 @@ API REST construite avec **Express.js** et **MongoDB** permettant a des utilisat
 
 ## Auteurs
 
-- Ayoub Mezrani **[NOM DE FAMILLE A COMPLETER]**
-- **[Nom du binome, si vous etes deux - sinon supprimez cette ligne]**
+- Ayoub Mezrani 
 
-> **Important** : complete cette section avec le(s) nom(s) complet(s) avant de deposer le lien GitHub sur Classroom. L'enonce precise qu'en cas d'oubli, il n'y aura aucune correction possible apres coup.
+
 
 ## Fonctionnalites
 
