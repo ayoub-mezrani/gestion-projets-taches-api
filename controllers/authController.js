@@ -2,7 +2,7 @@
 // ----------------------------------------------------
 // Fih 2 fonctions: register (ta3mel compte jdid) w login (todkhol b
 // compte mawjoud). Fel 2 el halet, nraj3ou token JWT bech l'utilisateur
-// yesta3mlou fi requests jeya.
+// yesta3mlou fi requests  e jeya.
 // ----------------------------------------------------
 
 const User = require('../models/User');
