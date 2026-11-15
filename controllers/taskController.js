@@ -1,12 +1,12 @@
-// controllers/taskController.js
+// controllers/taskController.js 
 // ----------------------------------------------------
 // CRUD mta3 el taches + tri/recherche + assignation.
-// 9awa3id muhima (mel enonce) :
-//  - N'importe quel utilisateur connecte ynajem yocree tache (fi ay
+// 9awa3id mouhima (mel enonce) :
+//  - N'importe quel utilisateur connecte ynajem yicree tache (fi ay
 //    projet mawjoud)
-//  - Statut lazem ykoun biss : todo / doing / done
-//  - BISS el manager ynajem ya3mel "assign" (ya3ti tache l utilisateur
-//    mo3ayen)
+//  - Statut lazem ykoun  : todo / doing / done
+//  - BICH el manager ynajem ya3mel "assign" (ya3ti tache l utilisateur
+//    mo3ayen )
 // ----------------------------------------------------
 
 const Task = require('../models/Task');
